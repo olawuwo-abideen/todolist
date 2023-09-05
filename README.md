@@ -2,7 +2,6 @@
 
 A todolist app 
 
-built on express, body-parser, ejs and lodash
 
 
 ## Built With:
